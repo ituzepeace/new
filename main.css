@@ -1,0 +1,53 @@
+li{
+    margin-right: 20px;
+    background-color: rgb(203, 221, 221);
+    font-size: 30px;
+    border-radius: 5px;
+    color: black;
+padding-right: 30px;
+
+}
+body{
+    background-color: lightblue;
+    background-size: 150px;
+   
+}
+
+
+ul li{
+    display: inline;
+    align-items: center;
+   
+   
+}
+
+/* this will help us to align our unorderlist in the center   */
+ul{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+li:hover{
+    background-color: black;
+    color: white;
+}
+img{
+  border-radius: 30px;
+  
+    
+}
+
+aside{
+    border-image: 20px;
+}
+h2{
+    display: inline-block;
+    
+}
+
+
+
+
+    
+
